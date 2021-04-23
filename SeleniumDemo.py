@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 
 #Loads Chromedriver
-browser = webdriver.Chrome("C:/Users/addis/OneDrive/Desktop/chromedriver_win32/chromedriver.exe")
+browser = webdriver.Chrome("")
 
 
 #Gets Total administered CSV
